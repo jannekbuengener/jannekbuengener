@@ -1,6 +1,6 @@
 # Jannek Büngener
 
-AI Product & Systems Orchestrator · Agentic Workflows · Automation · Evaluation · Governance
+AI Product & Systems Orchestration | Agentic AI · Automation · Evaluation · Governance
 
 I design and orchestrate AI-native product and workflow systems. My work focuses on problem decomposition, AI model/agent/tool selection, system design, requirements and boundaries, evaluation and validation, governance, and turning ideas into working AI-assisted systems. Implementation is heavily AI-assisted.
 
@@ -12,6 +12,16 @@ I design and orchestrate AI-native product and workflow systems. My work focuses
 - Evaluation / QA
 - AI Governance
 - Creative Tech / Audio
+
+## Portfolio hierarchy and case routing
+
+The portfolio keeps four core anchors and three targeted application modules:
+
+- **Core anchors:** [Sample Brain](https://github.com/jannekbuengener/sample-brain) for broad product/system thinking and local-first audio workflows; [Claire de Binare](https://github.com/jannekbuengener/Claire_de_Binare) for governance, evidence and fail-closed control; [Traumtänzer](https://github.com/jannekbuengener/traum_taenzer) for Responsible AI, safety and privacy; and the [Agent Orchestration Case](https://github.com/jannekbuengener/gpt-mcp-server/blob/main/docs/PUBLIC_PORTFOLIO_EXCERPT.md) for bounded multi-agent routing.
+- **Targeted modules:** [Everlast-AI](https://github.com/jannekbuengener/Everlast-AI/blob/master/docs/PORTFOLIO_CASE_STUDY.md) for Product Discovery and voice UX under a tight timebox; [Clipboard-Brudi](https://github.com/jannekbuengener/Clipboard-Brudi/blob/main/docs/PORTFOLIO_CASE_STUDY.md) for local-first AI workflow tooling and human-agent handoff; and [modusmono-blog](https://github.com/jannekbuengener/modusmono-blog/blob/main/docs/PORTFOLIO_CASE_STUDY.md) for Creative Tech and concept-to-digital-experience work.
+- **Routing rule:** choose the case that proves the vacancy requirement most directly. The targeted modules add precision and do not replace a stronger core anchor.
+
+See [CASE_ROUTING.md](CASE_ROUTING.md) for the requirement matrix, evidence links, interview versions and claim boundaries.
 
 ## Selected Projects
 
@@ -72,6 +82,24 @@ Coordinated multiple AI agents and tools through a bounded **Agent Room** archit
 - Repair/merge convergence cycles
 
 _See the [public portfolio excerpt](https://github.com/jannekbuengener/gpt-mcp-server/blob/main/docs/PUBLIC_PORTFOLIO_EXCERPT.md) for the sanitized case summary._
+
+### 5. Everlast-AI
+
+**Signal:** Product Discovery, Product Scoping, requirement extraction and voice-UX prioritisation under a 72-hour constraint.
+
+**Evidence:** [Portfolio case study](https://github.com/jannekbuengener/Everlast-AI/blob/master/docs/PORTFOLIO_CASE_STUDY.md). `master` and `main` are divergent; neither branch is promoted to a finished end-to-end claim.
+
+### 6. Clipboard-Brudi
+
+**Signal:** Local-first AI workflow tooling with deterministic human-agent handoff and operator UX.
+
+**Evidence:** [Portfolio case study](https://github.com/jannekbuengener/Clipboard-Brudi/blob/main/docs/PORTFOLIO_CASE_STUDY.md). The product does not execute AI; GUI acceptance remains separate from parser and smoke evidence.
+
+### 7. modusmono-blog
+
+**Signal:** Creative Tech and concept-to-digital-experience delivery through React routes, local content modelling and navigation.
+
+**Evidence:** [Portfolio case study](https://github.com/jannekbuengener/modusmono-blog/blob/main/docs/PORTFOLIO_CASE_STUDY.md) *(private repository)*. Build evidence exists; no CMS or visitor-facing AI claim is made.
 
 ## How I work
 
